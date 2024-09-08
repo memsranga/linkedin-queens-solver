@@ -1,0 +1,61 @@
+# Byte-compiled
+*.pyc
+__pycache__
+.DS_Store
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+var/
+wheels/
+*.egg-info/
+*.egg
+*.idea
+.idea/
+MANIFEST
+
+debug.log
+*.log
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*htmlcov/
+
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+
+# Sphinx documentation
+docs/_build/
+
+
+# PyBuilder
+target/
+
+
+# pyenv
+.python-version
+
+
+# Environments
+.venv
+venv
+venv2
+
+
+.env
