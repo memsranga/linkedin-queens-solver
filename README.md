@@ -1,7 +1,6 @@
-# Solving LinkedIn Queens Game
-<a href="https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86"><img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*PHPi_BaY2gzdhgbRm1NWEQ.jpeg" alt="Solving LinkedIn Queens Game" 
-style="" ></a>
-Read entire blog: https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86
+<a href="https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86"><img src="https://github.com/user-attachments/assets/5faf2593-ca0a-4bcc-8767-dba6973c66ea" alt="Solving LinkedIn Queens Game" 
+style="width: 80%" ></a>
+## Read entire blog: https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86
 
 ### Install requirements
 `pip install -r requirements.txt`
