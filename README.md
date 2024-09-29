@@ -1,5 +1,6 @@
-<a href="https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86"><img src="https://github.com/user-attachments/assets/5faf2593-ca0a-4bcc-8767-dba6973c66ea" alt="Solving LinkedIn Queens Game" 
+<a href="https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86"><img src="https://github.com/user-attachments/assets/5924b0fb-f54c-43f1-83ef-6fcf04966197" alt="Solving LinkedIn Queens Game" 
 style="width: 80%" ></a>
+
 ## Read entire blog: https://medium.com/@memsranga/solving-linkedin-queens-game-cfeea7a26e86
 
 ### Install requirements
