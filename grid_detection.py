@@ -2,8 +2,11 @@ import cv2 as cv
 import numpy as np
 import math
 from backtracking import solve_n_queens
+import time
 
 def extract_grid(file_name):
+    start = time.perf_counter()
+
     # Read the input image
     original = cv.imread(file_name)
     # Save the original image for reference
@@ -133,6 +136,10 @@ def extract_grid(file_name):
 
     # Save the final output image with the solved board displayed
     cv.imwrite("solution/solve.png", output_image)
+
+    end = time.perf_counter()
+    elapsed = end - start
+    print(f'Time taken: {elapsed:.6f} seconds')
 
 # Run the grid extraction and solving process on the provided image file
 extract_grid("queens/3.png")
