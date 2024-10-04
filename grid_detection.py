@@ -1,7 +1,9 @@
 import cv2 as cv
 import numpy as np
 import math
-from backtracking import solve_n_queens
+# from backtracking import solve_n_queens
+# from linear_programming import solve_n_queens
+from llm_agent import solve_n_queens
 import time
 
 def extract_grid(file_name):
